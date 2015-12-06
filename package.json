@@ -2,7 +2,7 @@
   "name": "@micro-js/compose-reducers",
   "description": "Compose two or more reducers",
   "repository": "git://github.com/micro-js/compose-reducers.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
