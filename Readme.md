@@ -10,12 +10,12 @@ Compose two or more reducers
 
 ## Installation
 
-    $ npm install @micro-js/compose-reducers
+    $ npm install @f/compose-reducers
 
 ## Usage
 
 ```js
-var composeReducers = require('@micro-js/compose-reducers')
+var composeReducers = require('@f/compose-reducers')
 
 composeReducers(reducer1, reducer2)
 
@@ -39,5 +39,5 @@ MIT
 [git-url]: https://github.com/micro-js/compose-reducers
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/compose-reducers.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/compose-reducers
+[npm-image]: https://img.shields.io/npm/v/@f/compose-reducers.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/compose-reducers
